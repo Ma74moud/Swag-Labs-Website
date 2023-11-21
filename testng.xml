@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Swag Labs Regression Suite">
+    <test name="Regression Test">
+        <classes>
+            <class name="LoginTest"/>
+            <class name="AddToCartTest"/>
+            <class name="CheckoutTest"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
